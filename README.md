@@ -31,10 +31,15 @@ From that point the User will have to report the issue as best as they can with 
 
 
 First we will need to login as A Help Desk agent named John.We will navigate to http://localhost/osTicket/scp/login.php and login and from there ,We will observe the ticket's properties , by Priority/Department/SLA/and who it was assigned to.
+From the Tickets we will navigate to open tickets.
+Navigate to priority and also the SLA plan , take a glance at the comments and depending on the severity of the comments the user input ,possiblity you may want to reach out to the customer to actually gauge the issue .
+
 
 <p>
 <img src="https://i.imgur.com/2wbpQ4r.png" height="80%" width="80%" alt="Ticket Steps"/>
-<img src="" height="80%" width="80%" alt="Ticket Steps"/>
+<img src="https://i.imgur.com/NBO46D9.png" height="80%" width="80%" alt="Ticket Steps"/>
+<img src="" height="80%" width="80%" alt="Ticket Steps"/>  
+<img src="https://i.imgur.com/Q4EuNY4.png" height="80%" width="80%" alt="Ticket Steps"/>
 <img src="" height="80%" width="80%" alt="Ticket Steps"/>
 </p>
 <p>
@@ -54,9 +59,7 @@ From the perspective of an admin, they will receive the ticket requests from the
 <br />
 
 <p>
-<img src="https://i.imgur.com/Y1OaeVl.png" height="80%" width="80%" alt="Ticket Steps"/>
-<img src="https://i.imgur.com/pU3kh02.png" height="80%" width="80%" alt="Ticket Steps"/>
-<img src="https://i.imgur.com/YhXK7WL.png" height="80%" width="80%" alt="Ticket Steps"/>
+
 </p>
 
 
