@@ -30,10 +30,10 @@ From that point the User will have to report the issue as best as they can with 
 
 
 
-First we will need to login as A Help Desk agent named John.We will observe the ticket's properties , by Priority/Department/SLA/and who it was assigned to.
+First we will need to login as A Help Desk agent named John.We will navigate to http://localhost/osTicket/scp/login.php and login and from there ,We will observe the ticket's properties , by Priority/Department/SLA/and who it was assigned to.
 
 <p>
-<img src="" height="80%" width="80%" alt="Ticket Steps"/>
+<img src="https://i.imgur.com/2wbpQ4r.png" height="80%" width="80%" alt="Ticket Steps"/>
 <img src="" height="80%" width="80%" alt="Ticket Steps"/>
 <img src="" height="80%" width="80%" alt="Ticket Steps"/>
 </p>
