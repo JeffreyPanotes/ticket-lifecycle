@@ -8,7 +8,7 @@ We will go through the lifecycle of a ticket from intake to resolution within th
 
 <h2>Lifecycle Stages</h2>
 
-In this instance an End user/customer has reported an issue. The customer will login to the Help Desk portal and create a Ticket fromthis link [http://localhost/osTicket](http://localhost/osTicket ) and open a new ticket.
+In this instance an End user/customer has reported an issue. The customer will login to the Help Desk portal and create a Ticket from this link [http://localhost/osTicket](http://localhost/osTicket ) and open a new ticket.
 User will have to enter Contact information and a Help topic as to what is going on.
 From that point the User will have to report the issue as best as they can with as much information that is most helpful and then they will create the Support Ticket.
 
@@ -38,14 +38,12 @@ First we will need to login as A Help Desk agent named John.We will navigate to 
 <img src="" height="80%" width="80%" alt="Ticket Steps"/>
 </p>
 <p>
-In order to create tickets, users have to enter the ticket portal and log in if necessary. Within the portal, the user can submit a ticket request and detail their IT related issues. Here, I have created three tickets detailing a variety of problems that can appear as tickets in a real environment. Tickets are created by using a Help Topic, a descriptive outline of the issue, and the details of the issue that are all written as if it were an email.
+
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/8J4gYRr.png" height="80%" width="80%" alt="Ticket Steps"/>
-<img src="https://i.imgur.com/COfD3VN.png" height="80%" width="80%" alt="Ticket Steps"/>
-</p>
+
 
 <img src="" height="80%" width="80%" alt="Ticket Steps"/>
 <img src="" height="80%" width="80%" alt="Ticket Steps"/>
