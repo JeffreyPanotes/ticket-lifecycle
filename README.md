@@ -38,9 +38,15 @@ Navigate to priority and also the SLA plan , take a glance at the comments and d
 <p>
 <img src="https://i.imgur.com/2wbpQ4r.png" height="80%" width="80%" alt="Ticket Steps"/>
 <img src="https://i.imgur.com/NBO46D9.png" height="80%" width="80%" alt="Ticket Steps"/>
-<img src="" height="80%" width="80%" alt="Ticket Steps"/>  
 <img src="https://i.imgur.com/Q4EuNY4.png" height="80%" width="80%" alt="Ticket Steps"/>
-<img src="" height="80%" width="80%" alt="Ticket Steps"/>
+
+
+
+ Once you reach out the customer and the Priorty or SLA plan need to change due to the importance change then to the respective selection to route the issue appropiatly   
+<img src="https://i.imgur.com/dlbYE2e.png" height="80%" width="80%" alt="Ticket Steps"/>
+<img src="https://i.imgur.com/IOv7AfY.png" height="80%" width="80%" alt="Ticket Steps"/>
+<img src="https://i.imgur.com/t88y2E1.png" height="80%" width="80%" alt="Ticket Steps"/>
+<img src="https://i.imgur.com/4xIwjBZ.png" height="80%" width="80%" alt="Ticket Steps"/>
 </p>
 <p>
 
