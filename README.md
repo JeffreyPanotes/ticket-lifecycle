@@ -42,7 +42,7 @@ Navigate to priority and also the SLA plan , take a glance at the comments and d
 
 
 
- Once you reach out the customer and the Priorty or SLA plan need to change due to the importance change thenm to the respective selection to route the issue appropiatly   
+ Once you reach out the customer and the Priorty or SLA plan need to change due to the importance change them to the respective selection to route the issue appropriately   
 <img src="https://i.imgur.com/dlbYE2e.png" height="80%" width="80%" alt="Ticket Steps"/>
 <img src="https://i.imgur.com/IOv7AfY.png" height="80%" width="80%" alt="Ticket Steps"/>
 <img src="https://i.imgur.com/t88y2E1.png" height="80%" width="80%" alt="Ticket Steps"/>
@@ -61,27 +61,12 @@ Navigate to priority and also the SLA plan , take a glance at the comments and d
 <img src="" height="80%" width="80%" alt="Ticket Steps"/>
 <img src="" height="80%" width="80%" alt="Ticket Steps"/>
 <p>
-From the perspective of an admin, they will receive the ticket requests from their panel once they are sent. The admins can then reassign tickets to an agent or appropriate team. The severity level of the issue is determined and assigned accordingly to make sure appropriate tickets are solved within an SLA. Here, Jane viewed this ticket and assigned it to the System Administrators and changed the severity level to Emergency. 
-</p>
-<br />
-
-<p>
-
-</p>
-
-
-<img src="" height="80%" width="80%" alt="Ticket Steps"/>
-<img src="" height="80%" width="80%" alt="Ticket Steps"/>
-<img src="" height="80%" width="80%" alt="Ticket Steps"/>
-<p>
 When resolving tickets, it is important to have strong communication. One has to communicate with their team and the affected users. Tickets come and go with different issues and are assigned appropriately to different people. One of these tickets are assigned to John from Jane and Jane herself was able to manage a ticket by herself. Documentation is crucial to a successful environment. Tickets need to be documented properly so they can be used as reference if a similar issue shows up in the future.
 </p>
 <br />
 
 
-<img src="" height="80%" width="80%" alt="Ticket Steps"/>
-<img src="" height="80%" width="80%" alt="Ticket Steps"/>
-<img src="" height="80%" width="80%" alt="Ticket Steps"/>
+
 
 <h2>Lessons Learned</h2>
 
