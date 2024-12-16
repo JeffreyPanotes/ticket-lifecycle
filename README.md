@@ -58,7 +58,7 @@ Navigate to priority and also the SLA plan , take a glance at the comments and d
 <p>
 
 </p>
-<img src="https://i.imgur.com/EuXZbZi.png" height="80%" width="80%" alt="Ticket Steps"/>
+<img src="https://i.imgur.com/rU57K83.png" height="80%" width="80%" alt="Ticket Steps"/>
 <br />
 
 <p>
