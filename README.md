@@ -57,14 +57,24 @@ Navigate to priority and also the SLA plan , take a glance at the comments and d
 </p>
 <p>
 
+
+
+
+
+
+<p>
+
+When resolving tickets, it is important to have strong communication. One has to communicate with their team and the affected users. Tickets come and go with different issues and are assigned appropriately to different people.  Documentation is crucial to a successful environment. Tickets need to be documented properly so they can be used as reference if a similar issue shows up in the future.
+</p>
+<br />
+
 </p>
 <img src="https://i.imgur.com/rU57K83.png" height="80%" width="80%" alt="Ticket Steps"/>
 <br />
 
 <p>
 
-When resolving tickets, it is important to have strong communication. One has to communicate with their team and the affected users. Tickets come and go with different issues and are assigned appropriately to different people.  Documentation is crucial to a successful environment. Tickets need to be documented properly so they can be used as reference if a similar issue shows up in the future.
-</p>
+
 <br />
 
 
