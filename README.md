@@ -33,7 +33,7 @@ From that point the User will have to report the issue as best as they can with 
 
 
 
-First we will need to login as A Help Desk agent named John.We will navigate to http://localhost/osTicket/scp/login.php and login and from there ,We will observe the ticket's properties , by Priority/Department/SLA/and who it was assigned to.
+Now we will  login as A Help Desk agent named John.We will navigate to http://localhost/osTicket/scp/login.php and login and from there ,We will observe the ticket's properties , by Priority/Department/SLA/and who it was assigned to.
 From the Tickets we will navigate to open tickets.
 Navigate to priority and also the SLA plan , take a glance at the comments and depending on the severity of the comments the user input ,possiblity you may want to reach out to the customer to actually gauge the issue .
 
